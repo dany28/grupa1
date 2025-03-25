@@ -10,3 +10,5 @@ Testowe repozytorium dla grupy 1
 ## naglówek cztery
 
 ## zmiany w readme
+
+## instrukcja obsługi
