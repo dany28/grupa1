@@ -8,3 +8,5 @@ Testowe repozytorium dla grupy 1
 ## naglówek trzy
 
 ## naglówek cztery
+
+## instrukcja obsługi
